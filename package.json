@@ -9,6 +9,7 @@
   "author": "Tibbo Technology",
   "license": "MIT",
   "dependencies": {
+    "@tibbo-tps/tibbit-30": "0.0.7",
     "express": "^4.14.0",
     "keen.io": "^0.1.3"
   }

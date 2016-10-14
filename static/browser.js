@@ -1,9 +1,9 @@
 angular
-    .module('tutorials',['nvd3'])
+    .module('chart',['nvd3'])
     .controller("nodejs-keen",['$scope',function($scope){
         var client = new Keen({
-            projectId: "5706............fe6a1279",
-            readKey: "29ec96c5e..........746871b0923"
+            projectId: "57066b.........a1279",
+            readKey: "29ec96c5e746871b81a79f29de0c8............9bc64b490923"
         });
 
         // Configure NVD3 charting engine
