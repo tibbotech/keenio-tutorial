@@ -1,0 +1,15 @@
+{
+  "name": "keenio-tutorial",
+  "version": "0.0.1",
+  "description": "Tracking Environmental Data with TPS and Keen.IO",
+  "main": "device.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tibbo Technology",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "keen.io": "^0.1.3"
+  }
+}
